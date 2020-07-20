@@ -1,0 +1,28 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "array": "^0.4.3",
+    "for": "^0.1.0",
+    "inquirer": "^7.3.2",
+    "of": "^1.0.0",
+    "questions": "^0.0.6",
+    "user": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdmJeffery/README_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdmJeffery/README_Generator/issues"
+  },
+  "homepage": "https://github.com/AdmJeffery/README_Generator#readme"
+}
