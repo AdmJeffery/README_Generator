@@ -9,63 +9,63 @@ function promptUser() {
 
     {
         type:"input",
-        name:"Title",
+        name:"title",
         message: "What is the Title of your README?",
         validate: catchEmpty
     },
     {
         type:"input",
-        name: "Description",
+        name: "description",
         message: "Enter a Description of your README:",
         validate: catchEmpty
     },
     {
         type:"input",
-        name:"Installation Instructions",
+        name:"installation",
         message: "Enter Installation Instructions:",
         validate: catchEmpty
     },
     {
         type : "input",
-        name: "Usage",
+        name: "usage",
         message: "Enter Usage Instructions:",
         validate: catchEmpty
     },
     {
         type: "list",
-        name: "License",
+        name: "license",
         message: "Please select which licenses you wish to use:",
         choices: ["Apache 2.0", "MIT", "BSD 3","Boost 1.0","None"],
         validate: catchEmpty
     },
     {
         type:"input",
-        name:"Contributionconfirm",
+        name:"contributionConfirm",
         message: "Would you like others to contribute to this project?",
         validate: catchEmpty
     },
     {
-        when: (response) => response.Contributionconfirm === true,
+        when: (response) => response.contributionConfirm === true,
         type:"input",
-        name:"Contribution",
+        name:"contribution",
         message: "Please enter contribution guidelines:",
         validate: catchEmpty
     },
     {
         type:"input",
-        name:"Testing",
+        name:"testing",
         message: "Please state example tests for your program:",
         validate: catchEmpty
     },
     {
         type:"input",
-        name:"GitHubName",
+        name:"gitHubName",
         message: "Please enter your GitHub username:",
         validate: catchEmpty
     },
     {
         type:"input",
-        name:"Email",
+        name:"email",
         message: "What is the best email to contact you with?",
         validate: catchEmpty
     },
