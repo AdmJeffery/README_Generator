@@ -31,8 +31,9 @@ function generateMarkdown (data) {
    ${data.testing}
    
    ## Contact
-   * GitHub Username: ${data.gitHubName}
+   * GitHub Username: [${data.gitHubName}](https://github.com/${data.username})
    * Email: ${data.email}`
 
    
 }
+module.exports = markdownGenerator;
