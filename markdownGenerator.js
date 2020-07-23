@@ -10,7 +10,16 @@ function generateMarkdown (data) {
    ## Table of Contents
    * [License](#license)
    * [Installation](#installation)
-   * [Usage](#usage)`
+   * [Usage](#usage)
+   * [Contributing](#contributing)
+   * [Testing](#testing)
+   * [Contact](#contact)
+   
+   ## License
+   This project is under the protection of the ${data.license}. All usage of this project must be in accordance with said license.
+   
+   ## Installation
+   `
 
    
 }
