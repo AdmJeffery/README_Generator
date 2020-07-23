@@ -19,7 +19,20 @@ function generateMarkdown (data) {
    This project is under the protection of the ${data.license}. All usage of this project must be in accordance with said license.
    
    ## Installation
-   `
+   ${data.installation}
+   
+   ## Usage
+   ${data.usage}
+   
+   ## Contributing
+   ${data.contributing}
+   
+   ## Testing
+   ${data.testing}
+   
+   ## Contact
+   * GitHub Username: ${data.gitHubName}
+   * Email: ${data.email}`
 
    
 }
