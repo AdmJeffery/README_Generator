@@ -43,9 +43,9 @@ function promptUser() {
         name:"Contributionconfirm",
         message: "Would you like others to contribute to this project?",
         validate: catchEmpty
-    }
+    },
     {
-        when: (response) => response.Contributionconfirm === true
+        when: (response) => response.Contributionconfirm === true,
         type:"input",
         name:"Contribution",
         message: "Please enter contribution guidelines:",
@@ -80,7 +80,4 @@ function catchEmpty (value){
     else return true;
 } 
 
-promptUser() 
-    .then(function(answers){
-        console.log(answers)
-    })
+promptUser()
