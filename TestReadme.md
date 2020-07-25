@@ -1,9 +1,8 @@
- # asfdasdf
-    
-    ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-informational?style=for-the-badge&logo=appveyor.svg)
+ # dfhg
+    ![License: AGPLv3](https://img.shields.io/badge/License-AGPLv3-blue.svg)
    
    ## Description 
-   asdfasdfa
+   sdfgsdfhs
    
    ## Table of Contents
    * [License](#license)
@@ -14,20 +13,20 @@
    * [Contact](#contact)
    
    ## License
-   This project is under the protection of the Apache 2.0. All usage of this project must be in accordance with said license.
+   This project is under the protection of the AGPLv3. All usage of this project must be in accordance with said license.
    
    ## Installation
-   asdfasdfasdf
+   sdfhsdfh
    
    ## Usage
-   asdgasdgs
+   sfdhsdfh
    
    ## Contributing
    undefined
    
    ## Testing
-   sdgasaeweg
+   dfhsdfh
    
    ## Contact
-   * GitHub Username: [sdgasd](https://github.com/undefined)
-   * Email: sdagsdga
+   * GitHub Username: [sdfhsdfh](https://github.com/undefined)
+   * Email: sdfhsdfh
