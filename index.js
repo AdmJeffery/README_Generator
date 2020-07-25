@@ -35,7 +35,7 @@ function promptUser() {
         type: "list",
         name: "license",
         message: "Please select which licenses you wish to use:",
-        choices: ["Apache 2.0", "MIT", "BSD 3","Boost 1.0","None"],
+        choices: ["AGPLv3", "GPLv3", "LGPLv3", "MPL 2.0", "Apache 2.0", "MIT", "Boost 1.0", "PDDL"],
         validate: catchEmpty
     },
     {
