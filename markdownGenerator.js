@@ -1,8 +1,8 @@
 function markdownGenerator (data) {
     const licenseEdit = data.license.replace("","%20");
-    return ` # ${data.Title}
+    return ` # ${data.title}
     
-    # ![License: ${data.license}](https://img.shields.io/badge/License-${licenseEdit}-informational?style=for-the-badge&logo=appveyor.svg)]
+    # ![License: ${data.license}](https://img.shields.io/badge/License-${licenseEdit}-blue.svg)]
    
    ## Description 
    ${data.description}

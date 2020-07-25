@@ -1,9 +1,9 @@
- # undefined
+ # TestReadme
     
-    # ![License: Apache 2.0](https://img.shields.io/badge/License-%20Apache 2.0-informational?style=for-the-badge&logo=appveyor.svg)]
+    # ![License: Apache 2.0](https://img.shields.io/badge/License-%20Apache 2.0-blue.svg)]
    
    ## Description 
-   Just a test for you to behold
+   Just a Test
    
    ## Table of Contents
    * [License](#license)
@@ -17,7 +17,7 @@
    This project is under the protection of the Apache 2.0. All usage of this project must be in accordance with said license.
    
    ## Installation
-   Just installit
+   Just Install it
    
    ## Usage
    Use however you want
@@ -26,8 +26,8 @@
    undefined
    
    ## Testing
-   Test how you want.
+   Make your own.
    
    ## Contact
    * GitHub Username: [AdmJeffery](https://github.com/undefined)
-   * Email: example@gmail.com
+   * Email: a@example.com
