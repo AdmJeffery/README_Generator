@@ -2,7 +2,7 @@
   #  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
    
    ## Description 
-   TEst
+   Test
    
    ## Table of Contents
    * [License](#license)
@@ -13,20 +13,20 @@
    * [Contact](#contact)
    
    ## License
-   This project is under the protection of the Apache 2.0. All usage of this project must be in accordance with said license.
+   This project is under the protection of the Apache 2.0 license. All usage of this project must be in accordance with said license.
    
    ## Installation
-   tests
+   TEst
    
    ## Usage
-   testing
+   TEst
    
    ## Contributing
    undefined
    
    ## Testing
-   teston
+   TEst
    
    ## Contact
-   * GitHub Username: [testoff](https://github.com/undefined)
-   * Email: test
+   * GitHub Username: [Test](https://github.com/undefined)
+   * Email: Test

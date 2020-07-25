@@ -20,7 +20,7 @@ Once you've answered all the questions, a "TestReadme" markdown file will be gen
 ## Video Tutorial
 Click the link below to watch a video tutorial.
 
-
+![Tutorial](#https://drive.google.com/file/d/1eJJr8znUBnCoW7JP2TYkC8xOwnnDxpqY/view)
 
 ## Takeaways
 This activity was very informative. The main focus of this assignment was to learn how to use Node.js. After completing this assignment, I feel confident in my skills in regards to Node and will likely continue to use it throughout the rest of my coding career. I also gained a better understanding of how to utilize multiple js files at the same time. 
