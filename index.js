@@ -35,15 +35,10 @@ function promptUser() {
         type: "list",
         name: "license",
         message: "Please select which licenses you wish to use:",
-        choices: ["AGPLv3", "GPLv3", "LGPLv3", "MPL 2.0", "Apache 2.0", "MIT", "Boost 1.0", "PDDL"],
+        choices: ["Apache 2.0", "GNU GPLv3", "MIT", "ISC", "GNU AGPLv3", "MPL 2.0", "The Unlicense",],
         validate: catchEmpty
     },
-    {
-        type:"input",
-        name:"contributionConfirm",
-        message: "Would you like others to contribute to this project?",
-        validate: catchEmpty
-    },
+    
     {
     
         type:"input",
