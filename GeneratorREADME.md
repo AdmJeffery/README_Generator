@@ -25,7 +25,7 @@ Click the link below to watch a video tutorial.
 ## Takeaways
 This activity was very informative. The main focus of this assignment was to learn how to use Node.js. After completing this assignment, I feel confident in my skills in regards to Node and will likely continue to use it throughout the rest of my coding career. I also gained a better understanding of how to utilize multiple js files at the same time. 
 
-## Acceptance Criteria
+## Acceptance
 
 The following screenshot shows the acceptance criteria for this project.
 
