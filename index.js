@@ -81,3 +81,12 @@ function catchEmpty (value){
 } 
 
 promptUser()
+    .then(function(response){
+        console.log(response)
+
+        fs.writeFile("TestReadme.md", markdownGenerator(response), function(error){
+            if (error){
+                return console.log(error)
+            }
+        })
+    });
