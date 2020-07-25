@@ -1,4 +1,4 @@
-function generateMarkdown (data) {
+function markdownGenerator (data) {
     const licenseEdit = data.license.replace("","%20");
     return ` # ${data.Title}
     
@@ -32,8 +32,10 @@ function generateMarkdown (data) {
    
    ## Contact
    * GitHub Username: [${data.gitHubName}](https://github.com/${data.username})
-   * Email: ${data.email}`
+   * Email: ${data.email}
+`
 
    
 }
+
 module.exports = markdownGenerator;

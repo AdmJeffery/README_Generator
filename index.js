@@ -1,11 +1,11 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
-const markdownGenerator = require("markdownGenerator")
+const markdownGenerator = require("../README_Generator/markdownGenerator")
 
 
 function promptUser() {
-    inquirer.prompt ([
+    return inquirer.prompt ([
 
     {
         type:"input",
@@ -45,7 +45,7 @@ function promptUser() {
         validate: catchEmpty
     },
     {
-        when: (response) => response.contributionConfirm === true,
+    
         type:"input",
         name:"contribution",
         message: "Please enter contribution guidelines:",
