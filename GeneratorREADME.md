@@ -20,6 +20,8 @@ Once you've answered all the questions, a "TestReadme" markdown file will be gen
 ## Video Tutorial
 Click the link below to watch a video tutorial.
 
+![Tutorial_Gif] (Assets/Readme Generator Tutorial.gif)
+
 ![Tutorial](https://drive.google.com/file/d/1eJJr8znUBnCoW7JP2TYkC8xOwnnDxpqY/view "Readme Generator Tutorial")
 
 ## Takeaways
